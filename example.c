@@ -1,8 +1,8 @@
 /* 
- * File:   example.c
- * Author: Manolis Agkopian
+ * File: example.c
  *
- * Created on April 29, 2015, 3:40 AM
+ * Copyright (c) 2015 Manolis Agkopian
+ * See the file LICENSE for copying permission.
  *
  * LCD library example code.
  */

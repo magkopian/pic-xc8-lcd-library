@@ -1,12 +1,12 @@
 /*
- * File:   lcd.c
- * Author: Manolis Agkopian
+ * File: lcd.c
  *
- * Created on April 29, 2015, 5:10 PM
+ * Copyright (c) 2015 Manolis Agkopian
+ * See the file LICENSE for copying permission.
  *
  * LCD library source file.
  */
-
+ 
 #define _XTAL_FREQ 8000000
 
 #include <stdbool.h>
